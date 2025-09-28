@@ -3,7 +3,7 @@
 This repository contains solutions for the **HC Coding Exercises (2025-26)**.  
 It includes:
 
-## 📂 Structure
+##  Structure
 
 - **exercise1_design_patterns/**  
   Demonstrates six different software design patterns with simple Java examples:  
@@ -17,7 +17,7 @@ It includes:
   A console-based application: **Astronaut Daily Schedule Organizer**.  
   Implements Singleton, Factory, and Observer patterns.
 
-## 🚀 Exercise 1: Design Patterns
+##  Exercise 1: Design Patterns
 
 Each Java file inside `exercise1_design_patterns` demonstrates a design pattern independently.  
 Compile and run them as:
@@ -31,7 +31,7 @@ java FactoryPatternDemo
 java AdapterPatternDemo
 ```
 
-## 🚀 Exercise 2: Astronaut Daily Schedule Organizer
+##  Exercise 2: Astronaut Daily Schedule Organizer
 
 ### Features
 - Add tasks with description, start time, end time, and priority.
@@ -63,12 +63,12 @@ Priority (High/Medium/Low): High
 [AstronautScheduler] Task added successfully: Morning Exercise
 ```
 
-## 🛠️ Technologies & Practices
+##  Technologies & Practices
 - **Language**: Java  
 - **Design Patterns**: Singleton, Factory, Observer, Adapter  
 - **Best Practices**: OOP, SOLID principles, defensive coding, input validation, exception handling.
 
-## 📌 Notes
+##  Notes
 - This project is console-based (no GUI).  
 - Extendable for editing tasks, marking completion, or filtering by priority.  
 - Logging can be extended using `java.util.logging` or similar frameworks.
